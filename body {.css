@@ -1,0 +1,56 @@
+body {
+    
+    padding-left: 350px;
+    padding-right: 350px;
+    background-color: rgb(224, 221, 221);
+
+}
+
+h1 {
+    text-align: center;
+}
+
+h3 {
+
+    text-align: center;
+}
+
+
+p.important {
+
+    font-style: italic;
+}
+
+.bblock {
+
+    display: inline-block;
+    width: 150px;
+    height: 200px;
+    vertical-align: top;
+    font-size: small;
+    padding: 8px;
+    background-color: whitesmoke;
+}
+
+.contacts {
+
+    display: inline-block;
+    width: 250px;
+    height: auto;
+    vertical-align: top;
+    padding: 5px;
+    text-align: center;
+}
+
+.contacts1 {
+
+    display: inline-block;
+    width: 180px;
+    height: 50px;
+    vertical-align: top;
+    padding: 0;
+    text-align: center;
+    margin-top: -25px;
+    margin-bottom: -20px;
+}
+
